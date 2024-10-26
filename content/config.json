@@ -1,6 +1,6 @@
 {
-  "title": "Blog by John Doe",
-  "url": "https://lumen.alxshelepenok.com",
+  "title": "Blog by Jambottle",
+  "url": "https://www.jambottle.dev",
   "subtitle": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
   "copyright": "© All rights reserved.",
   "googleAnalyticsId": "UA-73379983-2",
@@ -22,13 +22,13 @@
     }
   ],
   "author": {
-    "name": "John Doe",
+    "name": "Jambottle",
     "photo": "/photo.jpg",
     "bio": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
     "contacts": {
       "rss": "",
-      "email": "",
-      "github": "alxshelepenok/gatsby-starter-lumen",
+      "email": "jaewon@sogang.ac.kr",
+      "github": "jambottle",
       "facebook": "#",
       "telegram": "#",
       "twitter": "#",
